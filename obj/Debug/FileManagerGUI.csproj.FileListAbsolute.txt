@@ -1,0 +1,9 @@
+C:\Users\unaca\Desktop\C#\Tema5\Tema5\bin\Debug\Tema5.exe.config
+C:\Users\unaca\Desktop\C#\Tema5\Tema5\bin\Debug\Tema5.exe
+C:\Users\unaca\Desktop\C#\Tema5\Tema5\bin\Debug\Tema5.pdb
+C:\Users\unaca\Desktop\C#\Tema5\Tema5\obj\Debug\FileManagerGUI.csproj.AssemblyReference.cache
+C:\Users\unaca\Desktop\C#\Tema5\Tema5\obj\Debug\Tema5.Properties.Resources.resources
+C:\Users\unaca\Desktop\C#\Tema5\Tema5\obj\Debug\FileManagerGUI.csproj.GenerateResource.cache
+C:\Users\unaca\Desktop\C#\Tema5\Tema5\obj\Debug\FileManagerGUI.csproj.CoreCompileInputs.cache
+C:\Users\unaca\Desktop\C#\Tema5\Tema5\obj\Debug\Tema5.exe
+C:\Users\unaca\Desktop\C#\Tema5\Tema5\obj\Debug\Tema5.pdb
